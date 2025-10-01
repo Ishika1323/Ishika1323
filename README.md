@@ -51,7 +51,7 @@ print(ishika.life_motto())
 - ✨ **Innovation Catalyst** - Bridging the gap between ideas and reality
 
 🚀 **What I'm Currently Crafting:**
-- 🧠 **MindSpace 3.0** - My flagship project revolutionizing mental wellness tech
+- 🧠 **Drug Research Platform** - My flagship project revolutionizing drug and its research studies  tech
 - 🤖 **Agentic AI Systems** - Multi-agent frameworks with LangChain mastery
 - 📊 **Advanced ML Pipelines** - End-to-end machine learning solutions
 - 🌐 **Full-Stack AI Applications** - Seamless AI integration across the stack
@@ -140,7 +140,7 @@ print(ishika.life_motto())
 
 <div align="left">
 
-### 🧠 **MindSpace 3.0** *(Current Flagship)*
+### 🧠 **MindSpace 3.0** 
 ```javascript
 const mindSpace = {
   status: "🚧 In Active Development",
@@ -294,7 +294,7 @@ graph TD
 - 🎭 I wear **5 different tech hats** daily and somehow they all fit perfectly
 - ☕ My debugging sessions are powered by curiosity (and premium coffee)
 - 🧠 I think in **multiple programming languages** simultaneously 
-- 🤖 Building **MindSpace 3.0** while my own mind races with innovative ideas
+- 🤖 Completed working on **MindSpace 3.0** while my own mind races with innovative ideas
 - 📊 I can find patterns in data faster than I can decide what to binge-watch
 - 🌟 **Multi-role mastery** isn't just a skill, it's my technological superpower!
 
@@ -302,7 +302,7 @@ graph TD
 ```python
 class IshikaMode:
     def __init__(self):
-        self.current_projects = ["MindSpace 3.0", "Agentic AI", "Data Magic"]
+        self.current_projects = ["Drug Research Platform", "Agentic AI", "Data Magic"]
         self.energy_level = "Infinitely Curious & Caffeine-Powered"
         self.readers_block = True  # But coding block = False!
         self.multitasking_ability = "Legendary Status Achieved"
@@ -345,7 +345,7 @@ Hint: I probably switched roles at least 3 times while building MindSpace 3.0!* 
 
 **⭐ If my multi-domain journey inspires you, let's connect and create something amazing together!** 
 
-**🎯 Current Mission: Building MindSpace 3.0 while exploring the frontiers of Agentic AI! 🧠**
+**🎯 Current Mission: Building my very own Drug Research platform while exploring the frontiers of Agentic AI! 🧠**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishika1323&color=ff69b4&style=flat-square&label=Multi-Role+Tech+Enthusiasts+Visited)
 
